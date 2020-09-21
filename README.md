@@ -7,8 +7,8 @@ This do-file is open accessible under the Open Data Commons Public CDomain Dedic
 Please be sure to check the Community Norms https://opendatacommons.org/norms/odc-by-sa/
 It would be awesome if you would credit the author of the do-file: Karlijn Roex (2017)
 
-
-datafile ISSP2009_sessionmarch2017_new
+Datafile used in the do-files
+datafile ISSP2009_sessionmarch2017_new (downloadable here https://surfdrive.surf.nl/files/index.php/s/nl88elX7PL0mYKL)
 
 That dataset is a derivative from the original ISSP 2009 DATASET DOWNLOADABLE HERE https://www.gesis.org/issp/modules/issp-modules-by-topic/social-inequality/2009/
 ISSP Social Inequality Module IV 2009
